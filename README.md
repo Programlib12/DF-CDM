@@ -1,4 +1,4 @@
 ## DF-CDM
 DF-CDM: Conditional diffusion model with data fusion for bridge dynamic response reconstruction
 
-Codes and dataset will be available after cleaning up and publication of the paper.
+You can learn more information through https://drive.google.com/drive/folders/1bYV1cW4UqIQ6lvRqyroFXryLP3zpSYfK?usp=sharing.
